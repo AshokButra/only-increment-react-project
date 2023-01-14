@@ -1,0 +1,25 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.heading {
+  text-align: center;
+}
+.count {
+  color: #c20a72;
+}
+.description {
+  text-align: center;
+}
+
+.button {
+  background-color: #007bff;
+  padding: 10px;
+  color: #ffffff;
+  border-width: 0px;
+  border-radius: 10px;
+}
